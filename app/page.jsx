@@ -47,7 +47,7 @@ export default function Page() {
             href="tel:081353995159"
             className="inline-flex items-center gap-2 px-3 py-2 rounded-lg bg-white/80 dark:bg-slate-800 shadow-sm text-sm hover:bg-white"
           >
-            📞 0813-5399-5159
+            📞 +62 813-5399-5159
           </a>
 
           <a
